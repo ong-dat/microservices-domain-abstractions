@@ -14,6 +14,7 @@
     <RepositoryUrl>https://github.com/ong-dat/microservices-domain-abstractions</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>NET 7;Microservice</PackageTags>
+    <RootNamespace>Ongdat.Microservices.Domain</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
